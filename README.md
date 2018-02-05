@@ -11,7 +11,7 @@ Copyright 2015
 
 You can find more detailed documentation and examples in the [doc](doc) and [examples](examples) directories respectively.
 
-# Installation & Testing
+# Installation & Testin
 
 See [INSTALL](INSTALL.md) for installation instructions for various platforms.
 
