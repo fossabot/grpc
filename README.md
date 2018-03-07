@@ -1,4 +1,5 @@
 [![Build Status](https://grpc-testing.appspot.com/job/gRPC_master/badge/icon)](https://grpc-testing.appspot.com/job/gRPC_master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fding1992%2Fgrpc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fding1992%2Fgrpc?ref=badge_shield)
 [gRPC - An RPC library and framework](http://github.com/grpc/grpc)
 ===================================
 
@@ -109,3 +110,7 @@ The abstract protocol defined above is implemented over [HTTP/2](https://http2.g
 gRPC inherits the flow control mechanisms in HTTP/2 and uses them to enable fine-grained control of the amount of memory used for buffering in-flight messages.
 
 test
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fding1992%2Fgrpc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fding1992%2Fgrpc?ref=badge_large)
